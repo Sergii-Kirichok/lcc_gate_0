@@ -1,0 +1,1 @@
+lcc_gate_0\startup_stm32f107xc.o: startup_stm32f107xc.s
